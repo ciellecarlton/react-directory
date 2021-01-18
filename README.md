@@ -1,13 +1,11 @@
-# PWA ~ Comptrolla ~ App 
+# React ~ Employee ~ App 
 Check out the App here!:
 ## Table of Contents
 
-- [ PWA ~ Comptrolla ~ App ]
-- (#pwa-comptrolla-app)
-  - [Table of Contents](#table-of-contents)
+- [ React Employee Directory ]
+- (#react-directory)
   - [Description](#description)
   - [Deployment](#deployment)
-  - [Built With](#built-with)
   - [Contributing](#contributing)
   - [Authors](#authors)
  
